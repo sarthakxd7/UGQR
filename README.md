@@ -55,10 +55,7 @@ You will be asked for:
 4. Path to background image (cropped automatically).
 
 
-5. Optional logo path (for center of QR).
-
-
-6. Optional extra image (placed above QR).
+5. Optional user logo (placed above QR).
 
 
 
