@@ -118,7 +118,7 @@ if __name__ == "__main__":
 
     bg_path = input("Enter background image path: ")
     extra_img_path = input("Enter your logo place above QR (leave blank to skip): ").strip()
-    logo_path = "my_logo.png"  # <-- replace with your logo file
+    logo_path = "UGQR/my_logo.png"  # <-- replace with your logo file
 
     # Load & crop background
     bg = Image.open(bg_path).convert("RGB")
