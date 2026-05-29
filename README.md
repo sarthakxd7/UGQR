@@ -43,7 +43,7 @@ python qr_generator.py
 
 You will be asked for:
 
-1. Text / URL for QR code.
+1. Text or URL for the QR code.
 
 
 2. First and second gradient colors (e.g., navy, #0000ff, #ff5733).
